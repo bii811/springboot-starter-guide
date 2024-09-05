@@ -242,6 +242,7 @@ mvn spring-boot:run
 Once the application is running, the REST API will be available at [http://localhost:8080/api/products](http://localhost:8080/api/products).
 
 ## Testing the API
+
 You can use tools like Postman or cURL to test the API.
 
 Example of getting all products using curl:
